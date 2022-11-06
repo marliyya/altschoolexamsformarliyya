@@ -1,3 +1,7 @@
+[deployed site](https://altschoolexamssemester2.web.app)
+
+#Above is the deployed site
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
